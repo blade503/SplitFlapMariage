@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff194f920e4667fc38e0287f8ee7b0ae",
+    "revision": "9e87c349073305546f3df3ea2e556349",
     "url": "/SplitFlapMariage/index.html"
   },
   {
-    "revision": "7ef98b7d17d4d52cb4c8",
+    "revision": "5f85a5e7ba386519c15d",
     "url": "/SplitFlapMariage/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "aa6f3f72e7a8031601dc",
+    "revision": "9777cdc249e1876034ad",
     "url": "/SplitFlapMariage/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "7ef98b7d17d4d52cb4c8",
-    "url": "/SplitFlapMariage/static/js/2.e937b765.chunk.js"
+    "revision": "5f85a5e7ba386519c15d",
+    "url": "/SplitFlapMariage/static/js/2.befe3e7c.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/SplitFlapMariage/static/js/2.e937b765.chunk.js.LICENSE.txt"
+    "url": "/SplitFlapMariage/static/js/2.befe3e7c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa6f3f72e7a8031601dc",
-    "url": "/SplitFlapMariage/static/js/main.1149965f.chunk.js"
+    "revision": "9777cdc249e1876034ad",
+    "url": "/SplitFlapMariage/static/js/main.6e3be855.chunk.js"
   },
   {
     "revision": "bd4ce6547b18b01b5db7",

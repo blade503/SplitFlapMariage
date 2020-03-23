@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SplitFlapMariage/precache-manifest.a79e4bc0890bc20dd0cdf0b08a20e156.js"
+  "/SplitFlapMariage/precache-manifest.4a34d680de1b55dc456c7cd3573201fe.js"
 );
 
 self.addEventListener('message', (event) => {
