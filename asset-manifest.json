@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/SplitFlapMariage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/SplitFlapMariage/static/js/main.6e3be855.chunk.js",
-    "main.js.map": "/SplitFlapMariage/static/js/main.6e3be855.chunk.js.map",
+    "main.css": "/SplitFlapMariage/static/css/main.e96ff313.chunk.css",
+    "main.js": "/SplitFlapMariage/static/js/main.4b1901ef.chunk.js",
+    "main.js.map": "/SplitFlapMariage/static/js/main.4b1901ef.chunk.js.map",
     "runtime-main.js": "/SplitFlapMariage/static/js/runtime-main.d5f5d417.js",
     "runtime-main.js.map": "/SplitFlapMariage/static/js/runtime-main.d5f5d417.js.map",
     "static/css/2.de424728.chunk.css": "/SplitFlapMariage/static/css/2.de424728.chunk.css",
-    "static/js/2.befe3e7c.chunk.js": "/SplitFlapMariage/static/js/2.befe3e7c.chunk.js",
-    "static/js/2.befe3e7c.chunk.js.map": "/SplitFlapMariage/static/js/2.befe3e7c.chunk.js.map",
+    "static/js/2.432ce8d3.chunk.js": "/SplitFlapMariage/static/js/2.432ce8d3.chunk.js",
+    "static/js/2.432ce8d3.chunk.js.map": "/SplitFlapMariage/static/js/2.432ce8d3.chunk.js.map",
     "index.html": "/SplitFlapMariage/index.html",
-    "precache-manifest.4a34d680de1b55dc456c7cd3573201fe.js": "/SplitFlapMariage/precache-manifest.4a34d680de1b55dc456c7cd3573201fe.js",
+    "precache-manifest.7267eebbb6d892df7f8ace9a294dca65.js": "/SplitFlapMariage/precache-manifest.7267eebbb6d892df7f8ace9a294dca65.js",
     "service-worker.js": "/SplitFlapMariage/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/SplitFlapMariage/static/css/2.de424728.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/SplitFlapMariage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.befe3e7c.chunk.js.LICENSE.txt": "/SplitFlapMariage/static/js/2.befe3e7c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/SplitFlapMariage/static/media/logo.5d5d9eef.svg"
+    "static/css/main.e96ff313.chunk.css.map": "/SplitFlapMariage/static/css/main.e96ff313.chunk.css.map",
+    "static/js/2.432ce8d3.chunk.js.LICENSE.txt": "/SplitFlapMariage/static/js/2.432ce8d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d5f5d417.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.befe3e7c.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6e3be855.chunk.js"
+    "static/js/2.432ce8d3.chunk.js",
+    "static/css/main.e96ff313.chunk.css",
+    "static/js/main.4b1901ef.chunk.js"
   ]
 }
