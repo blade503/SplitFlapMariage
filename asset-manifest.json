@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SplitFlapMariage/static/css/main.5f361e03.chunk.css",
-    "main.js": "/SplitFlapMariage/static/js/main.873d8f28.chunk.js",
-    "main.js.map": "/SplitFlapMariage/static/js/main.873d8f28.chunk.js.map",
+    "main.js": "/SplitFlapMariage/static/js/main.25930535.chunk.js",
+    "main.js.map": "/SplitFlapMariage/static/js/main.25930535.chunk.js.map",
     "runtime-main.js": "/SplitFlapMariage/static/js/runtime-main.d5f5d417.js",
     "runtime-main.js.map": "/SplitFlapMariage/static/js/runtime-main.d5f5d417.js.map",
-    "static/js/2.a7d79f77.chunk.js": "/SplitFlapMariage/static/js/2.a7d79f77.chunk.js",
-    "static/js/2.a7d79f77.chunk.js.map": "/SplitFlapMariage/static/js/2.a7d79f77.chunk.js.map",
+    "static/js/2.24ed45ac.chunk.js": "/SplitFlapMariage/static/js/2.24ed45ac.chunk.js",
+    "static/js/2.24ed45ac.chunk.js.map": "/SplitFlapMariage/static/js/2.24ed45ac.chunk.js.map",
     "index.html": "/SplitFlapMariage/index.html",
-    "precache-manifest.759fe6670e0b7503d7ffd40c042fe77e.js": "/SplitFlapMariage/precache-manifest.759fe6670e0b7503d7ffd40c042fe77e.js",
+    "precache-manifest.169a859c01ddff9b26620f21e8f16bda.js": "/SplitFlapMariage/precache-manifest.169a859c01ddff9b26620f21e8f16bda.js",
     "service-worker.js": "/SplitFlapMariage/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/SplitFlapMariage/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a7d79f77.chunk.js.LICENSE.txt": "/SplitFlapMariage/static/js/2.a7d79f77.chunk.js.LICENSE.txt",
+    "static/js/2.24ed45ac.chunk.js.LICENSE.txt": "/SplitFlapMariage/static/js/2.24ed45ac.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/SplitFlapMariage/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d5f5d417.js",
-    "static/js/2.a7d79f77.chunk.js",
+    "static/js/2.24ed45ac.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.873d8f28.chunk.js"
+    "static/js/main.25930535.chunk.js"
   ]
 }
